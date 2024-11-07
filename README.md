@@ -1,4 +1,5 @@
 # Prediksi Temperatur Motor untuk Sistem Pendingin Motor Listrik
+Sumber: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fwkirgsn%2Felectric-motor-temperature
 
 ## Overview
 Dalam industri modern, motor listrik memainkan peran penting di berbagai  bidang, termasuk transportasi dan operasi mesin produksi. Suhu tinggi pada komponen kritis, seperti stator, dapat menyebabkan kerusakan, menurunkan efisiensi, dan memperpendek usia motor secara signifikan. Oleh karena itu, pengendalian suhu yang tepat dan prediksi dini overheating menjadi aspek penting dalam menjaga kinerja motor listrik dan memperpanjang masa pakainya.
